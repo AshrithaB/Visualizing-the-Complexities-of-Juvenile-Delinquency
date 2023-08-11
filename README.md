@@ -1,9 +1,10 @@
 # Visualizing the Complexities of Juvenile Delinquency
 
-Technologies: Data Visualization
-Languages: Python
-Libraries: Numpy, Panda, Matplotlib, Seaborn
-Tools: Tableau, Jupyter Notebook
+Technologies: Data Visualization <br>
+Languages: Python <br>
+Libraries: Numpy, Panda, Matplotlib, Seaborn <br>
+Tools: Tableau, Jupyter Notebook <br>
+
 
 - Conducted in-depth data analysis of a cross-national ISRD-2 study using data visualization techniques to create dashboards and reports to visualize intricate delinquency relationships
 - Constructed compelling visual representations to present complex data patterns and highlight significant correlations
